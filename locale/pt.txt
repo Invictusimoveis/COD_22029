@@ -1,0 +1,31 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_32D16EB5_C0EE_4857_41E6_4ABF666289C4.source = https://www.invictusimoveis.com.br/imovel/lindo-apartamento-com-3-dormitorios-a-venda-no-edificio-calder-110m-jardim-santo-andre-sp/22029
+
+## Media
+
+### Title
+panorama_B58BE719_BF62_4754_41E1_5713232108DE.label = area serviço
+panorama_B58ACC13_BF62_4954_41CE_03AC9AFB4077.label = corredor
+panorama_B58B829A_BF62_7957_41CE_2AD5EFDD8089.label = coz1
+panorama_B58B5091_BF62_5954_41E6_60B356C2AE43.label = dorm 1
+panorama_B58B899E_BF62_4B4C_41CC_DE435F4A081D.label = entra
+panorama_B585FE2C_BF6D_C94D_41DC_AE6748BB318B.label = lav
+panorama_B58AB307_BF62_3F3C_41D4_BDD0CB6FD470.label = q2
+panorama_B58AD795_BF62_475C_41E1_DB4E8C3BE1B8.label = q2
+panorama_B58534EB_BF6E_3AF4_41D6_3A44F9AF1C07.label = su 3
+panorama_B585B341_BF6D_FF34_41E7_7BF9BE03E066.label = su 4
+panorama_B5866416_BF6D_D95C_41BB_EEB685A6D8C6.label = su area
+panorama_B3095A40_BF6E_4935_41C1_AF656C7972D6.label = su banh
+panorama_B585D7D0_BF6D_C6D4_417F_0F65B60279FE.label = su2
+panorama_B58B24FF_BF62_5ACC_41D7_526729ED1DFC.label = vista
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD_22029
